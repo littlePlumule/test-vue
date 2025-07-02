@@ -1,0 +1,15 @@
+export default {
+    trailingComma: 'all',
+    singleQuote: true,
+    semi: true,
+    printWidth: 80,
+    arrowParens: 'always',
+    proseWrap: 'always',
+    endOfLine: 'crlf',
+    experimentalTernaries: false,
+    tabWidth: 4,
+    useTabs: false,
+    quoteProps: 'consistent',
+    vueIndentScriptAndStyle: false,
+    singleAttributePerLine: true,
+};
